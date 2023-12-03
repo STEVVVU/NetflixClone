@@ -1,5 +1,4 @@
 import MovieVideo from "../components/MovieVideo";
-import Navbar from "../components/navbar";
 import RecentlyAdded from "../components/RecentlyAdded";
 
 export default function HomePage() {
